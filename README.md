@@ -5,9 +5,9 @@ This project is a simple local chat application built using Node.js, Express, an
 
 ## Screenshots
 
-![App Screenshot 1](https://github.com/im-w/Team_Chat/blob/main/Documents/Screenshot-1.png?raw=true)
-
 ![App Screenshot 2](https://github.com/im-w/Team_Chat/blob/main/Documents/Screenshot-2.png?raw=true)
+
+![App Screenshot 1](https://github.com/im-w/Team_Chat/blob/main/Documents/Screenshot-1.png?raw=true)
 
 
 #
